@@ -1,7 +1,9 @@
 ---
 title: 开始
-createTime: 2025/06/27 16:22:00
-permalink: /article/j9mi7y3a/
+createTime: 2025/06/26 16:22:00
+permalink: /guide/start
+prev: 
+next: /guide/race
 ---
 
 欢迎游玩`Modernia`，在阅读本文档先，您需要了解以下规则：

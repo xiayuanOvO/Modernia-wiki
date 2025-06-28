@@ -1,7 +1,7 @@
 ---
-title: future
-createTime: 2025/06/27 11:54:02
-permalink: /article/rsrbtns0/
+title: 未来
+createTime: 2025/06/28 16:22:00
+permalink: /guide/future
 ---
 # 目录结构
 
