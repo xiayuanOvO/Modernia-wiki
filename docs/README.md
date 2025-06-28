@@ -14,7 +14,8 @@ config:
     hero:
       name: Modernia Wiki
 #      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+#      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      text: qq 娱乐机器人
       actions:
         -
           theme: brand
