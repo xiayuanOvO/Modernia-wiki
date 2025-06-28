@@ -19,7 +19,7 @@ export default defineNavbarConfig([
                 link: '/guide/race.md'
             }
         ]
-    },
+    }
     // {text: '笔记', link: '/notes/demo/'},
     // { text: '首页', link: '/' },
     // {text: '博客', link: '/blog/'},
