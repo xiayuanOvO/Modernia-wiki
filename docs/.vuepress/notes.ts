@@ -35,7 +35,7 @@ import {defineNoteConfig, defineNotesConfig, ThemeNote} from 'vuepress-theme-plu
 
 const themeGuide: ThemeNote = defineNoteConfig({
     dir: '',
-    link: '/',
+    link: '',
     text: '游玩指南',
     sidebar: [
         {text: '游玩指南', icon: 'bx:blanket', items: ['start', 'race']}
@@ -49,6 +49,6 @@ const themeGuide: ThemeNote = defineNoteConfig({
  */
 export default defineNotesConfig({
     dir: '/guide',
-    link: '/',
-    notes: [themeGuide],
+    link: '',
+    notes: [themeGuide]
 })
