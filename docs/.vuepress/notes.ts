@@ -38,9 +38,19 @@ const themeGuide: ThemeNote = defineNoteConfig({
     link: '',
     text: '游玩指南',
     sidebar: [
-        {text: '游玩指南', icon: 'bx:blanket', items: ['start', 'race']}
+        {text: '游玩指南', icon: 'bx:blanket', items: ['start', 'player-race', 'race', 'future']}
     ]
 })
+
+const changeLog: ThemeNote = defineNoteConfig({
+    dir: 'changelog',
+    link: '/changelog',
+    text: '更新日志',
+    sidebar: [
+        {text: '更新日志', icon: 'bx:blanket', items: ['index']}
+    ]
+})
+        
 
 /**
  * 导出所有的 note
@@ -50,5 +60,5 @@ const themeGuide: ThemeNote = defineNoteConfig({
 export default defineNotesConfig({
     dir: '/guide',
     link: '',
-    notes: [themeGuide]
+    notes: [themeGuide],
 })

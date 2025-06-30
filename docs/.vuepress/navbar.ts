@@ -19,6 +19,10 @@ export default defineNavbarConfig([
                 link: '/guide/race.md'
             }
         ]
+    },
+    {
+        text: '更新日志',
+        link: '/changelog/'
     }
     // {text: '笔记', link: '/notes/demo/'},
     // { text: '首页', link: '/' },
